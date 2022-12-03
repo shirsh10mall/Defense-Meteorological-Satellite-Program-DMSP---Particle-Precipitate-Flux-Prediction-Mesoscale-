@@ -8,3 +8,5 @@ Research Paper Manuscript  - https://www.researchgate.net/publication/350946002_
 
 
 📊Dataset:https://zenodo.org/record/4281122/files/AI_Ready_DMSP_Data.csv?download=1
+
+Sampled Data (ReadyToTrainModel): https://www.kaggle.com/datasets/shirshmall/dmspparticleprecipitatefluxprediction
